@@ -1,0 +1,38 @@
+body {
+  position:relative;
+  margin:0px;
+  background: white/*#ececec*/;
+}
+
+#canvas{
+  position: fixed;
+  top:0px;
+  left:0px;
+  width:100vw;
+  height:100vh;
+}
+
+.emoji {
+  font-size:80px;
+  position:absolute;
+}
+
+#text{
+  border: 1px solid black/*#0094ff*/;
+  background: white;
+  width: 38%;
+  box-shadow: 4px 4px;
+  margin: 20px;
+
+
+  font-family: ivypresto-display, serif;
+  font-style: italic;
+  font-weight: 100;
+  font-size: 28px;
+  color: black/*#0094ff*/;
+  padding: 4px 4px 8px 18px;
+}
+
+.instructions {
+	font-weight: 300;
+}
