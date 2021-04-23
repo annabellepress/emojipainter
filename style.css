@@ -20,7 +20,7 @@ body {
 #text{
   border: 1px solid black/*#0094ff*/;
   background: white;
-  width: 38%;
+  width: 385px;
   box-shadow: 4px 4px;
   margin: 20px;
 
@@ -30,7 +30,7 @@ body {
   font-weight: 100;
   font-size: 28px;
   color: black/*#0094ff*/;
-  padding: 4px 4px 8px 18px;
+  padding: 12px;
 }
 
 .instructions {
